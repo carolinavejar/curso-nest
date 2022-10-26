@@ -20,3 +20,8 @@
  ```
   docker-compose up -d
  ```
+
+  5. Recoustruir DB con seed
+ ```
+  http://localhost:3000/api/seed
+ ```
